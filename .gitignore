@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Muzodajnia/packages
+/Muzodajnia/x64/Debug
+/Muzodajnia/.vs/Muzodajnia
+/Muzodajnia/Muzodajnia/x64/Debug
