@@ -1,6 +1,10 @@
 # Muzodajnia
 Final project for Computer Programming, Semester 2. A terminal-based and simplified version of applications such as Spotify, Tidal, or YouTube Music, utilizing the free Jamendo API, featuring a full music player with controls (pause, play, volume up/down).
 
+![alt text](https://i.imgur.com/2K0JQb9.png)
+
+![alt text](https://imgur.com/Vhymjuu.png)
+
 ## Dependencies
 All packages have been installed with built-in NuGet package manager.
 - [BASS](https://www.nuget.org/packages/BASS/2.4.12.1?_src=template)
@@ -14,5 +18,3 @@ Sadly user manual is in Polish language.
 ## License
 
 This project is licensed under the MIT License.
-
-
