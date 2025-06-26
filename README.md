@@ -8,6 +8,8 @@ All packages have been installed with built-in NuGet package manager.
 - [libcpr](https://www.nuget.org/packages/libcpr/1.11.3?_src=template)
 
 ## User manual
+Sadly user manual is in Polish language.
+- [Manual](https://github.com/WicherK/Muzodajnia/blob/main/Muzodajnia/Sprawozdanie.pdf)
 
 ## License
 
